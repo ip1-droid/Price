@@ -19,7 +19,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ========== تنظیمات ==========
-BOT_TOKEN = "8947567937:AAFyt10drJMODWZm3PHQFI-MJzET6bFldNU"  # جایگزین کنید
+BOT_TOKEN = "8947567937:AAHvDXs3oTrEzF-4pTtKMnb4r0BDbsXLuTU"  # جایگزین کنید
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 UPDATE_OFFSET = 0
 
